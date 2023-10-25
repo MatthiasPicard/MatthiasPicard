@@ -7,5 +7,5 @@
 - ⚡ I am also a huge hiking enthusiast! ⛰️
   
 - 📫 How to reach me: 
-Mail: matthias.picard1@gmail.com 
-Linkedin: https://www.linkedin.com/in/matthiaspicard/
+    - Mail: matthias.picard1@gmail.com 
+    -Linkedin: https://www.linkedin.com/in/matthiaspicard/
