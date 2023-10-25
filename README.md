@@ -8,4 +8,4 @@
   
 - 📫 How to reach me: 
     - Mail: matthias.picard1@gmail.com 
-    -Linkedin: https://www.linkedin.com/in/matthiaspicard/
+    - Linkedin: https://www.linkedin.com/in/matthiaspicard/
