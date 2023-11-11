@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently studying Artificial Intelligence as a final-year student at CentraleSupelec Engineering School, Paris
-- 👷 My ambition is to start a career in these fields. Looking forward to contributing my part to future projects!
+- 👷 My ambition is to start a career as a data scientist. Looking forward to contributing my part to future projects!
 - 👀 Currently working on improving my knowledge in RL
 - ⚡ I am also a huge hiking enthusiast! ⛰️
   
